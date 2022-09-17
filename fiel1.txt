@@ -1,1 +1,2 @@
 modified the changes in Dev Branch
+modfied the code for master branch to work on merge conflicts
